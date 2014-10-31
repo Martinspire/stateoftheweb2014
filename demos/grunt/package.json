@@ -1,0 +1,9 @@
+{
+  "name": "grunt-demo",
+  "description": "Simple demo to run grunt and convert a style.scss file to style.css",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "grunt-sass": "*"
+  }
+}
